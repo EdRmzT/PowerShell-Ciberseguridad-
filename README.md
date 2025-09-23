@@ -8,6 +8,7 @@ Contiene los ejercicios realizados/probados por alumnos cursando la materia de P
 ¿Qué scripts se incluyen?
 
 Los scripts pueden variar según la práctica o el proyecto, pero normalmente incluyen:
+
 -Scripts de auditoría de usuarios 
 
 -Scripts de análisis de red
