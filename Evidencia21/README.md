@@ -37,6 +37,7 @@ Materia: *Programación para Ciberseguridad*
 Grupo: *061*
 
 ## Licencia
-Este proyecto se distribuye con fines educativos. El uso de la API de Have I Been Pwned está sujeto a sus responsabilidad de usted.
+Este proyecto se distribuye con fines educativos. El uso de la API de Have I Been Pwned está sujeto a responsabilidad de usted.
+
 
 
